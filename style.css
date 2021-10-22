@@ -1,0 +1,17 @@
+.copy_right_footer{
+    position: fixed;
+    color:rgb(247, 8, 107);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color:pink;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px lightpink;
+}
+.headder_div{
+    background-color:pink;
+}
+body{
+    background-color:rgb(230, 148, 205) ;
+}
