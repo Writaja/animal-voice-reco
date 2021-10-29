@@ -1,17 +1,35 @@
 .copy_right_footer{
     position: fixed;
-    color:rgb(247, 8, 107);
+    color: white;
     bottom: 0;
     width: 100%;
     font-size: 18px;
-    background-color:pink;
+    background-color: rgb(235, 88, 235);
     line-height: 3;
     text-align: center;
-    text-shadow: 5px 5px 5px lightpink;
-}
-.headder_div{
-    background-color:pink;
+    text-shadow: 5px 5px 5px darkgray;
 }
 body{
-    background-color:rgb(230, 148, 205) ;
+    font-family: 'Special Elite', cursive;
+    background-color: plum;
+}
+.headder_div{
+background-color: purple;
+color: white;
+
+}
+.headder_div p{
+    font-family: 'Special Elite', cursive;
+    color: grey;
+    letter-spacing:2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'Special Elite', cursive;
+margin-top: 30px;
+width: 130px;
+font-weight: bolder;
+letter-spacing: 3px;
+
 }
